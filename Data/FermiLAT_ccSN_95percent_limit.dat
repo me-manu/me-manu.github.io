@@ -1,0 +1,30 @@
+# Sensitivity (projected 95% confidence limit) on photon-ALP coupling
+# Derived from a potential core-collapse supernova of 10 solar mass progenitor
+# in the galactic center, using the GMF model of Jansson & Farrar 2012
+# ALP mass (eV) vs photon-ALP coupling (GeV^-1)
+# Source: Meyer et al., arXiv:1609.02350
+# 
+1.00000e-10 1.87607e-13
+1.49250e-10 1.87658e-13
+2.22754e-10 1.87911e-13
+3.32460e-10 1.89146e-13
+4.96195e-10 1.94714e-13
+7.40568e-10 2.13851e-13
+1.10530e-09 2.54995e-13
+1.64965e-09 3.16211e-13
+2.46209e-09 4.28341e-13
+3.67466e-09 6.86299e-13
+5.48442e-09 1.02503e-12
+8.18547e-09 1.53531e-12
+1.22168e-08 2.37767e-12
+1.82335e-08 3.49932e-12
+2.72134e-08 5.13688e-12
+4.06159e-08 7.65686e-12
+6.06190e-08 1.11371e-11
+9.04736e-08 1.62390e-11
+1.35031e-07 2.44692e-11
+2.01534e-07 3.90711e-11
+3.00788e-07 5.75699e-11
+4.48925e-07 8.24865e-11
+6.70019e-07 1.00000e-10
+1.00000e-06 1.00000e-10
