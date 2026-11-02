@@ -46,6 +46,8 @@
     ],
     "imageResize": true,
     "publishChangesOnly": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
